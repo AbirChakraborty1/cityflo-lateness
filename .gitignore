@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# coaching docs for the candidate, not part of the graded submission
+WHAT_TO_DO.pdf
+SUBMISSION_PLAN.pdf
+eda_starter.ipynb
